@@ -1,6 +1,5 @@
 # 💻 Vinícius Eduardo Dias
-**`Desenvolvedor Front-
-End`**
+**`Desenvolvedor Front-End`**
 
 Desenvolvedor Front-end, graduado em Tecnologia da Informação pela UNIVESP com forte atuação em JavaScript e TypeScript. Experiência em React, Next.js e estilização com Tailwind CSS e Bootstrap. Focado em performance, responsividade e boas práticas de desenvolvimento web.
 
