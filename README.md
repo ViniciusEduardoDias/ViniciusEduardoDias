@@ -87,17 +87,3 @@ Desenvolvedor Front-end, graduado em Tecnologia da Informação pela UNIVESP com
 <br/>
 
 ---
-
-### 📈 Estatísticas
-  <img 
-    align="left"
-    alt="githubstatics"
-    heigth="200"
-    src="https://github-readme-stats.vercel.app/api?username=ViniciusEduardoDias&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left"
-    alt="githubstatics"
-    heigth="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEduardoDias&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
